@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 flask = "2.2.2"
-flask-migrate = "3.1.0"
+flask_migrate = "3.1.0"
 flask-sqlalchemy = "2.5.1"
 ipdb = "0.13.9"
 importlib-metadata = "6.0.0"
